@@ -1,0 +1,59 @@
+commit 3fefdb8f8e8fa5505f401b4ab5c1fa496b915a51
+Author: d5423197 <dengzhonghan521@gmail.com>
+Date:   Fri May 1 14:46:38 2020 -0700
+
+    add report to deliver
+
+commit 5bd5bb0d0f176f5125d04993dd5c7c60ad7b7d8f
+Author: d5423197 <dengzhonghan521@gmail.com>
+Date:   Fri May 1 13:42:25 2020 -0700
+
+    remove tracked file gitignore and admin directory
+
+commit df648aec4b06107bea2fa2a90f59c7e011d629a9
+Author: d5423197 <dengzhonghan521@gmail.com>
+Date:   Fri May 1 13:36:15 2020 -0700
+
+    ignore .gitignore file
+
+commit 6600dfbc2a5ddd21b4653b85d6a7fe927335e9db
+Author: d5423197 <dengzhonghan521@gmail.com>
+Date:   Fri May 1 13:30:52 2020 -0700
+
+    trying to ignore admin
+
+commit 21549c88cba1669a4c6d77d0fbeb4dcd9ad5779b
+Author: d5423197 <dengzhonghan521@gmail.com>
+Date:   Fri May 1 13:27:01 2020 -0700
+
+    Trying to ignore admin file
+
+commit 6e2a0bb7ae05d9d2a907f155b7dd16961879ebf2
+Author: d5423197 <dengzhonghan521@gmail.com>
+Date:   Fri May 1 13:22:47 2020 -0700
+
+    Add / after Admin in gitignore
+
+commit 6e143161171a8d6ca22bf35d9d2dc882f454e0c0
+Author: d5423197 <dengzhonghan521@gmail.com>
+Date:   Fri May 1 13:21:19 2020 -0700
+
+    Add Admin to gitigore
+
+commit ef2b0ce8046ad15e2f763989588bc72892601c07
+Author: d5423197 <dengzhonghan521@gmail.com>
+Date:   Thu Apr 30 19:28:39 2020 -0700
+
+    EDA modified
+
+commit 6ff42137190f1b21dcaf7336668c69b4ab5a69c6
+Author: d5423197 <dengzhonghan521@gmail.com>
+Date:   Thu Apr 30 19:26:01 2020 -0700
+
+    EDA finished
+
+commit ef5981ea42ce675d5b7bbbff334b082efc1e88e2
+Author: d5423197 <dengzhonghan521@gmail.com>
+Date:   Thu Apr 30 18:11:11 2020 -0700
+
+    first commit
